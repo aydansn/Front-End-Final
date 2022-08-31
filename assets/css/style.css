@@ -1,0 +1,73 @@
+.container{
+    margin: 30px 61px;
+}
+.logo{
+    width: 110px;
+    height: 33px;
+    
+}
+ul{
+    display: flex;
+    justify-content: space-between;
+    li{
+    list-style: none;
+    a{
+        padding-right: 30px;
+        font-size: 15px;
+        font-weight: 600;
+        color: black;
+    }
+ 
+}
+
+}
+
+
+a{
+    text-decoration: none
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.header-left{
+    justify-content: left;
+
+}   
+
+.header-center{
+    margin: 0px 217px;
+    justify-content: center;
+
+}
+
+.header-right{
+    justify-content: right;
+}
+.header-right a{
+    color: black;
+    font-weight: 700;
+}
+.signupborder{
+    border: 1px solid black;
+    padding-left: 20px;
+    padding: 5px 10px;
+    border-radius:15px ;
+    
+}
+.signupborder:hover{
+    background-color: orange;
+    color: white;
+    transition: 1s;
+}
+
+.signinborder{
+    color: white;
+}
+
+#hero{
+
+
+
+}
